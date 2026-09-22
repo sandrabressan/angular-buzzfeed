@@ -1,27 +1,52 @@
-# ProjetoBuzzfeed
+# Angular BuzzFeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+A superhero-themed quiz application developed with **Angular and TypeScript** as part of the **Banco PAN Bootcamp challenge**.
 
-## Development server
+## About
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project is an interactive quiz inspired by the BuzzFeed quiz format.
 
-## Code scaffolding
+The application asks users to choose their preferred superpower, such as flying, laser vision, healing, or fire powers, and determines whether they would be a **hero or villain** based on their answers.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+Install the latest version of [Node.js](https://nodejs.org/).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Install the Angular CLI:
 
-## Running unit tests
+```bash
+npm install -g @angular/cli
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Clone the project and install the dependencies:
 
-## Running end-to-end tests
+```bash
+git clone https://github.com/sandrabressan/angular-buzzfeed.git
+cd angular-buzzfeed
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Usage
 
-## Further help
+Start the development server:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+ng serve
+```
+
+Open your browser and navigate to:
+
+http://localhost:4200
+
+## Technologies
+
+* Angular
+* TypeScript
+* HTML
+* CSS
+
+## Project Status
+
+This project was completed as part of the **Banco PAN Bootcamp challenge** and is no longer under active development.
+
+**Note:** The application interface is in Portuguese, as it was originally developed for a Portuguese-speaking audience.
